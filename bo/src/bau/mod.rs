@@ -1,4 +1,3 @@
-mod lol;
+pub mod lol;
 
-pub use lol::prant;
 use crate::miao;

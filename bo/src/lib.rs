@@ -1,8 +1,8 @@
-mod miao;
 mod bau;
+mod miao;
 
+pub use bau::lol::prant;
 pub use miao::prunt;
-pub use bau::prant;
 
 pub fn print() {
     println!("I am BO");

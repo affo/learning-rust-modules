@@ -1,3 +1,3 @@
 mod lol;
 
-pub use lol::{prunt, get};
+pub use lol::{get, prunt};
